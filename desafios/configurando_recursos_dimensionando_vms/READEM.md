@@ -1,6 +1,6 @@
 # Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
 ## Neste desafio Aprendi:
-### - Como fazer Configuração de Escala -> 09:01 video
+### - Como fazer Configuração de Escala
 ### - Como criar máquinas virtuais
 ### - Como configurar conjuntos de dimensionamento de máquinas virtuais
 ### - Como utilizar predefinições de máquinas virtuais
@@ -18,3 +18,9 @@
 ![](../../assets/img/vms2.png)
 ---
 ![](../../assets/img/vms3.png)
+---
+### - Criar Área de Trabalho Virtual do Azure
+![](../../assets/img/vms4.png)
+---
+### - Criar Aplicativo de Funções
+![](../../assets/img/vms5.png)
