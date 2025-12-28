@@ -19,8 +19,7 @@
 ---
 ![](../../assets/img/vms3.png)
 ---
-### - Criar Área de Trabalho Virtual do Azure
+## - Criar Área de Trabalho Virtual do Azure
 ![](../../assets/img/vms4.png)
 ---
-### - Criar Aplicativo de Funções
 ![](../../assets/img/vms5.png)
